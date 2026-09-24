@@ -2,6 +2,10 @@
 
 Work-in-progress **SolidWorks CAD reconstruction of a Cessna 172S**, developed as an aerospace/mechanical design portfolio project. The model currently includes substantial fuselage exterior geometry, a modeled propeller and spinner, tailcone rework, and vertical-stabilizer integration, with the rudder and additional detail still in development.
 
+<p align="center">
+  <img src="images/c172s_isometric.png" alt="C172S SolidWorks CAD assembly" width="900">
+</p>
+
 > **Status:** Work in progress. This repository captures the current design state and selected development backups as of September 2026.
 
 ## Project Objectives
