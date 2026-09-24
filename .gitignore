@@ -1,0 +1,13 @@
+# Windows / Explorer
+Thumbs.db
+Desktop.ini
+
+# SolidWorks temporary / backup files
+~$*
+*.tmp
+*.bak
+*.sldbak
+*.log
+
+# Common editor/system files
+.DS_Store

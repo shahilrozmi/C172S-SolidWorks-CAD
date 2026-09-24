@@ -1,0 +1,20 @@
+relative_path,extension,size_bytes,zip_modified,status,role
+Cessna172/Assembly.SLDASM,.SLDASM,687643,2026-09-22 18:35:00,CURRENT,Top-level assembly
+Cessna172/Assembly.x_t,.x_t,985410,2026-09-19 16:33:08,SNAPSHOT,Neutral-format assembly snapshot
+Cessna172/Assembly.zip,.zip,3617784,2026-09-19 16:32:14,SNAPSHOT,Earlier self-contained Pack-and-Go snapshot
+Cessna172/Assembly1.SLDASM,.SLDASM,799817,2026-09-16 20:28:30,BACKUP,Assembly development backup
+Cessna172/Assembly2.SLDASM,.SLDASM,1329986,2026-09-17 20:22:12,BACKUP,Assembly development backup
+Cessna172/Assembly3.SLDASM,.SLDASM,1324963,2026-09-19 18:50:58,BACKUP,Assembly development backup
+Cessna172/C172S_Vertical_Stabilizer.SLDPRT,.SLDPRT,891651,2026-09-22 18:28:50,CURRENT,Vertical stabilizer part
+Cessna172/Fuselage.SLDPRT,.SLDPRT,1110757,2026-08-28 21:37:46,BACKUP,Earlier fuselage version
+Cessna172/Fuselage_Almostdone_Tail.SLDPRT,.SLDPRT,1509606,2026-09-22 17:58:36,BACKUP,Intermediate fuselage/tail development
+Cessna172/Fuselage_PostTailconeReplacement.SLDPRT,.SLDPRT,1858026,2026-09-22 18:28:50,CURRENT,Repaired fuselage/tailcone part
+Cessna172/Propeller.SLDPRT,.SLDPRT,245777,2026-09-08 15:43:42,BACKUP,Earlier propeller model
+Cessna172/Propeller_Approx_External.SLDPRT,.SLDPRT,519878,2026-09-12 19:39:02,CURRENT/RETAIN,External propeller representation
+Cessna172/Propeller_Spinner_Assembly.SLDASM,.SLDASM,332947,2026-09-16 20:21:56,CURRENT,Propeller/spinner subassembly
+Cessna172/Spinner.SLDPRT,.SLDPRT,224215,2026-09-13 12:59:54,CURRENT,Spinner part
+Cessna172/VS_Audit.swp,.swp,72704,2026-09-19 18:44:46,AUTOMATION,SolidWorks VBA/API vertical-stabilizer audit tool
+Cessna172/VS_REPAIR2.swp,.swp,71168,2026-09-20 00:58:40,AUTOMATION,SolidWorks VBA/API vertical-stabilizer repair iteration
+Cessna172/VS_Repair.swp,.swp,138240,2026-09-20 00:58:38,AUTOMATION,SolidWorks VBA/API vertical-stabilizer repair tool
+Cessna172/fuselage_propeller.xlsx,.xlsx,13248,2026-09-13 11:36:38,REFERENCE,Reference geometry/calculation spreadsheet
+Cessna172/fuselage_propeller_2.xlsx,.xlsx,13193,2026-09-13 11:53:40,REFERENCE,Later reference geometry/calculation spreadsheet
